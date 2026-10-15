@@ -13,13 +13,6 @@
 This repository provides the implementation of **Energy-Based Deep Incomplete Multi-View Clustering**, a deep learning framework designed to address missing data challenges in incomplete multi-view clustering (IMVC).
 
 The proposed approach integrates **energy-based feature imputation**, **multi-head attention**, and **energy-enhanced contrastive learning** to recover missing information, adaptively fuse complementary representations across views, and improve clustering performance.
-
-# Energy-Based Deep Incomplete Multi-View Clustering
-
-**Ziyu Wang, Yiming Du, Rui Ning, and Lusi Li**
-
-📄 **Published in ACM Multimedia 2025 (ACM MM 2025)**
-
 ---
 ## 🏗️ Framework
 
